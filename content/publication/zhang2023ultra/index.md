@@ -9,7 +9,7 @@ abstract: In this study, an interfacial biosensing scheme with ultra-precision
   for IgG. In addition, the sensor is non-coated, simple in structure, easy to
   operate, and low in cost of use.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: /zhang2023ultra/zhang2023ultra.pdf
 publication_types:
   - "2"
 authors:
