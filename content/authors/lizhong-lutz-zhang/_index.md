@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - display:
       header: false
     link: https://github.com/WashNeedDje
@@ -30,6 +30,14 @@ social:
     icon: cv
 organizations:
   - name: Tsinghua University
+education:
+  courses:
+    - course: Master of Engineering in Electronic Information
+      institution: Shenzhen International Graduate School, Tsinghua University
+      year: 2024
+    - course: B. S. in Electronical Information Science and Technology
+      institution: College of Electronic Science & Engineering, Jilin University
+      year: 2019
 email: zhanglz21@mails.tsinghua.edu.cn
 superuser: true
 user_groups: []
