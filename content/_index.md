@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Lizhong (Lutz) Zhang
-date: 2022-10-24
+date: 2023-06-26
 type: landing
 
 sections:
@@ -39,8 +39,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Master of Engineering in Electronic Information
+          company: Tsinghua University
           company_url: ''
           company_logo: org-gc
           location: California
