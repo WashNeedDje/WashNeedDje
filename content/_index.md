@@ -43,22 +43,22 @@ sections:
           company: Tsinghua University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Beijing, China
+          date_start: '2021-09-01'
+          date_end: '2024-07-01'
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: B.S. in Electronical Information Science and Technology
+          company: Jilin University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Changchun City, Jilin Provience, China
+          date_start: '2016-09-01'
+          date_end: '2020-6-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
@@ -209,7 +209,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you have any ideas, you can use any of the following ways to contact me, I am very welcome to communicate with you.
       # Contact (add or remove contact options as necessary)
       email: zhanglz21@mails.tsinghua.edu.cn
       phone: +86 178 4310 6383
@@ -234,7 +234,7 @@ sections:
           icon_pack: fab
           name: Skype Me
           link: 'skype:echo123?call'
-        - icon: weibo
+        - icon: 'weibo'
           icon_back: fab
           name: Weibo Me
           link: 'https://weibo.com/u/7387993191'
