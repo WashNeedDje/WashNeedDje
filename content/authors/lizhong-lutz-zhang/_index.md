@@ -4,9 +4,15 @@ role: Master Candidate of Engineering
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Football
-  - badminton
+  - Biomedical Photonics
+  - Molecular Imaging
+  - Optical Weak Measurement Coherent Spectroscopy
+  - Surface Plasmon Resonance
+  - Molecular binding dynamics
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
   - display:
       header: false
     link: https://github.com/WashNeedDje
