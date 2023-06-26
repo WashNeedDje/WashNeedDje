@@ -11,7 +11,7 @@ social:
       header: false
     link: https://github.com/WashNeedDje
     icon: github
-    icon_pack: fas
+    icon_pack: fab
 organizations:
   - name: Tsinghua University
 email: zhanglz21@mails.tsinghua.edu.cn
