@@ -17,6 +17,11 @@ social:
     link: https://www.linkedin.com/in/lizhong-zhang-5744a9218/
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: uploads/resume.pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: Tsinghua University
 email: zhanglz21@mails.tsinghua.edu.cn
