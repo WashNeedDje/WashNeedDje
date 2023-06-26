@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Biomedical Photonics
   - Molecular Imaging
-  - Optical Weak Measurement Coherent Spectroscopy
+  - Optical Weak Measurement
   - Surface Plasmon Resonance
   - Molecular binding dynamics
 social:
