@@ -12,7 +12,6 @@ featured: false
 authors:
   - Lizhong (Lutz)
   - Zhang
-  - 吳恩達
 lastmod: 2020-12-13T00:00:00Z
 tags:
   - Academic
