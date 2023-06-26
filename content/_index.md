@@ -234,7 +234,7 @@ sections:
           icon_pack: fab
           name: Skype Me
           link: 'skype:echo123?call'
-        - icon: weibo
+        - icon: 'weibo'
           icon_back: fab
           name: Weibo Me
           link: 'https://weibo.com/u/7387993191'
