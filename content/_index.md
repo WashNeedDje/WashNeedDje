@@ -42,10 +42,10 @@ sections:
         - title: Master of Engineering in Electronic Information
           company: Tsinghua University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: Tsinghua
+          location: Beijing, China
+          date_start: '2021-09-01'
+          date_end: '2024-06-30'
           description: |2-
               Responsibilities include:
 
