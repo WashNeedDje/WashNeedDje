@@ -41,20 +41,25 @@ sections:
       items:
         - title: Master of Engineering in Electronic Information
           company: Tsinghua University
-          company_url: 'www.tsinghua.edu.cn'
+          company_url: ''
           company_logo: Tsinghua
           location: Beijing, China
           date_start: '2021-09-01'
           date_end: '2024-06-30'
-          description: 
-        - title: Bachelor of Science in Electronic Information Science and Technology
-          company: Jilin University
-          company_url: 'www.jlu.edu.cn'
-          company_logo: jd-xhh
-          location: Changchun, China
-          date_start: '2016-09-01'
-          date_end: '2020-6-30'
-          description: 
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
