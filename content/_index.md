@@ -41,7 +41,7 @@ sections:
       items:
         - title: Master of Engineering in Electronic Information
           company: Tsinghua University
-          company_url: 'https://www.tsinghua.edu.cn/'
+          company_url: ''
           company_logo: Tsinghua
           location: Beijing, China
           date_start: '2021-09-01'
@@ -49,8 +49,8 @@ sections:
           description: Receive the education of engineering and scientific training.
         - title: Bachelor of Science in Electronic Information Science and Technology
           company: Jilin University
-          company_url: 'https://www.jlu.edu.cn/'
-          company_logo: jd-xhh
+          company_url: ''
+          company_logo: org-x
           location: Changchun, China
           date_start: '2016-09-01'
           date_end: '2020-6-30'
