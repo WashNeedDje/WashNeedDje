@@ -46,7 +46,7 @@ sections:
           location: Beijing, China
           date_start: '2021-09-01'
           date_end: '2024-06-30'
-          description: Receive the education of engineering and scientific training.
+          description: 
         - title: Bachelor of Science in Electronic Information Science and Technology
           company: Jilin University
           company_url: 'www.jlu.edu.cn'
@@ -54,7 +54,7 @@ sections:
           location: Changchun, China
           date_start: '2016-09-01'
           date_end: '2020-6-30'
-          description: Receive the basic education about science.
+          description: 
     design:
       columns: '2'
   - block: accomplishments
